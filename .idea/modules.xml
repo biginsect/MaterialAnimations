@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/My_Android_workspace.iml" filepath="$PROJECT_DIR$/My_Android_workspace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaterialAnimations.iml" filepath="$PROJECT_DIR$/MaterialAnimations.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
