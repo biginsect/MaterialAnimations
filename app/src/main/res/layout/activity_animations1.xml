@@ -3,11 +3,9 @@
 
     <data>
         <variable
-            name="animationSample"
+            name="animationsSample"
             type="com.lipeng.materialanimations.Sample"/>
-
     </data>
-
     <LinearLayout
     android:id="@+id/sample3_root"
     android:layout_width="match_parent"

@@ -19,11 +19,11 @@ public class SharedElementActivity  extends BaseDetailActivity {
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        sample = (Sample)getIntent().getExtras().getSerializable(EXTRA_SAMPLE);
     }
 
     @Override
     protected void bindData(){
+        sample = (Sample)getIntent().getExtras().getSerializable(EXTRA_SAMPLE);
         ActivitySharedelementBinding binding = DataBindingUtil.setContentView(this, R.layout.activity_sharedelement);
         binding.setSharedSample(sample);
     }
