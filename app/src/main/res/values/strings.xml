@@ -1,9 +1,9 @@
 <resources>
     <string name="app_name">MaterialAnimations</string>
-    
+
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
-    
+
     <string name="square_red_name">square_red</string>
     <string name="square_blue_name">square_blue</string>
     <string name="square_green_name">square_green</string>
